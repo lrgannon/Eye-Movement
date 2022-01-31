@@ -1,5 +1,6 @@
 # **Eye-Movement**
 
+<img src="https://github.com/lrgannon/Eye-Movement/blob/main/48528F0F-96A6-4608-A918-9D298740D928.png alt="">
 ## **Description**
 
 This project was coded in Javascript. It created a pair of eyes placed in the middle of the screen and it involves an on mouse move event. As the user moves the mouse cursor around the page, the pair of eyes track the mouse movement.
